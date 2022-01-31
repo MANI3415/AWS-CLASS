@@ -1,6 +1,10 @@
 # AWS-CLASS
+- Training Start Date:  24th Jan 2022, *Time:*2pm to 3pm
+- Zoom Link: https://zoom.us/j/97718944532?pwd=cmhuOGVrbVVrMkc3b0QwQ3BJYmJWUT09 
+- Zoom Credentials:  Zoom id: 977 1894 4532 
+- Passcode:aws
 
-
+--------------------------------------------------------------------------------
 **DAY-1 (24-01-2022)
 - VIDEO LINK:https://www.youtube.com/watch?v=1whG3utFlLI&t=17s
 - TOPICS COVERED ON (24-01-2022)
