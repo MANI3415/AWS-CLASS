@@ -36,3 +36,37 @@
   - S3 BUCKET(SIMPLE STORAGE SERVICE) 
 
 ----------------------------------------------------------------------------------
+**DAY-4 (01-02-2022)
+- VIDEO LINK:https://www.youtube.com/watch?v=ca_xgAJJzCg
+- TOPICS COVERED ON (01-02-2022)
++++++++++++++++++++++++++++++++++++++++++
+- NATGATE WAY
+
+Load Balancing–
+Auto Scaling–High Availability
+
+- Elastic Load Balancer(ELB)
+  - microservices
+    - /user
+    - /app
+    - /user-name
+  - target group
+    - customized apps
+    - (nginx)(apache)
+  - round robin mechanism
+    - Request–Response
+
+            EFS(Elastic File System)
+            
+### Network Load Balancer is a Faster Then Application Load Balancer
+
+**NETWORK LOAD BALANCER:
+- NLB IS WORKS ON TCP/UDP PROTOCOL
+- OSI LAYER
+- PORT BASED ROUTING
+
+**APPLICATION LOAD BALANCER:
+- ALB——HTTP/HTTPS
+- APPLICATION LAYER
+- PATH BASED ROUTING
++++++++++++++++++++++++++++++++++++++++++++++++++
