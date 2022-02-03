@@ -136,9 +136,40 @@ Auto Scaling–High Availability
       -- Create Auto Scaling Groups
    
    -----------------------------------------------------------------------------------------------------
-   **DAY-6 (03-02-2022)
-- VIDEO LINK:
+- **DAY-06 (03-02-2022)
+- VIDEO LINK:https://www.youtube.com/watch?v=FjZyVZJvEg0
 - TOPICS DISCUSSED ON 03/02/2022
+- Config Group Size & Scaling Polices
+
+- Config Group Size
+  - Group Size Optimal
+  - Check The Activity--Check The Instances
+
+- Scaling polices
+  - none
+  - key and value optional
+ 
+- create a dynamic scaling policy
+- create a cloud watch
+  - select matric--alarm
+  
+   - static                              
+   - greater>=threshold             
+   - value-70                                      
+
+   - select ec2 
+   - auto scaling group
+
+   -  matric name
+   -   cpu  utilization
+   -   Auto scaling group
+
+- simple notification service()
+
+------------------------------------------------------------------------------------------------------
+ **DAY-07 (04-02-2022)
+- VIDEO LINK:
+- TOPICS DISCUSSED ON 04/02/2022
 
   
  
