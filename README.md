@@ -1,4 +1,4 @@
-# AWS-CLASS
+# AWS-CLASS(Afternoon batch)
 - Training Start Date:  24th Jan 2022, *Time:*2pm to 3pm
 - Zoom Link: https://zoom.us/j/97718944532?pwd=cmhuOGVrbVVrMkc3b0QwQ3BJYmJWUT09 
 - Zoom Credentials:  Zoom id: 977 1894 4532 
@@ -168,8 +168,22 @@ Auto Scaling–High Availability
 
 ------------------------------------------------------------------------------------------------------
  **DAY-07 (04-02-2022)
-- VIDEO LINK:
+- VIDEO LINK:https://www.youtube.com/watch?v=FjZyVZJvEg0&t=20s
 - TOPICS DISCUSSED ON 04/02/2022
+- cloudwatch
 
-  
+-----------------------------------------------------------------------------
+
+**DAY-08 (05-02-2022)
+- VIDEO LINK:https:https://www.youtube.com/watch?v=GnhaFyLmJMQ
+- TOPICS DISCUSSED ON 05/02/2022
+- ec2 server launch using redhat
+- ec2 server launch using ubantu
+
+--------------------------------------------------------------------------
+  **DAY-09 (07-02-2022)
+- VIDEO LINK:
+- TOPICS DISCUSSED ON 07/02/2022
+
+-------------------------------------------------------------------------
  
