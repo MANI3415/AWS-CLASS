@@ -39,7 +39,6 @@
 **DAY-4 (01-02-2022)
 - VIDEO LINK:https://www.youtube.com/watch?v=ca_xgAJJzCg
 - TOPICS COVERED ON (01-02-2022)
-+++++++++++++++++++++++++++++++++++++++++
 - NATGATE WAY
 
 Load Balancing–
@@ -56,7 +55,7 @@ Auto Scaling–High Availability
   - round robin mechanism
     - Request–Response
 
-            EFS(Elastic File System)
+  - EFS(Elastic File System)
             
 ### Network Load Balancer is a Faster Then Application Load Balancer
 
@@ -69,7 +68,6 @@ Auto Scaling–High Availability
 - ALB——HTTP/HTTPS
 - APPLICATION LAYER
 - PATH BASED ROUTING
-+++++++++++++++++++++++++++++++++++++++++++++++++
 
 ----------------------------------------------------------------------------------------------
 **DAY-5 (02-02-2022)
@@ -182,8 +180,19 @@ Auto Scaling–High Availability
 
 --------------------------------------------------------------------------
   **DAY-09 (07-02-2022)
-- VIDEO LINK:
+- VIDEO LINK:https://youtu.be/GxSXp6Qw7XE
 - TOPICS DISCUSSED ON 07/02/2022
+- Terraform-Hashicorp
+  - steps in Terrafoem
+    - configuration file
+    - init--plan--apply
+- IAC tools
+- Docker Ansible,puppet,saltstack,cloudformation
 
 -------------------------------------------------------------------------
+**DAY-10 (08-02-2022)
+
+VIDEO LINK:
+TOPICS DISCUSSED ON 08/02/2022
+
  
